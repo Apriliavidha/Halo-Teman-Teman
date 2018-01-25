@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Apa Itu Organ Hati?
 
-You can use the [editor on GitHub](https://github.com/Apriliavidha/Halo-Teman-Teman/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hati (bahasa Yunani: ἡπαρ, hēpar) merupakan kelenjar terbesar di dalam tubuh, terletak dalam rongga perut sebelah kanan, tepatnya di bawah diafragma. Berdasarkan fungsinya, hati juga termasuk sebagai alat ekskresi. Hal ini dikarenakan hati membantu fungsi ginjal dengan cara memecah beberapa senyawa yang bersifat racun dan menghasilkan amonia, urea, dan asam urat dengan memanfaatkan nitrogen dari asam amino. Proses pemecahan senyawa racun oleh hati disebut proses detoksifikasi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sel Punca Pada Hati
 
-### Markdown
+Selain hepatosit dan sel non-parenkimal, pada hati masih terdapat jenis sel lain yaitu sel intra-hepatik yang sering disebut sel oval, dan hepatosit duktular. Regenerasi hati setelah hepatektomi parsial, umumnya tidak melibatkan sel progenitor intra-hepatik dan sel punca ekstra-hepatik (hemopoietik), dan bergantung hanya kepada proliferasi hepatosit. Namun dalam kondisi saat proliferasi hepatosit terhambat atau tertunda, sel oval yang berada di area periportal akan mengalami proliferasi dan diferensiasi menjadi hepatosit dewasa. Sel oval merupakan bentuk diferensiasi dari sel progenitor yang berada pada area portal dan periportal, atau kanal Hering,dan hanya ditemukan saat hati mengalami cedera. Proliferasi yang terjadi pada sel oval akan membentuk saluran ekskresi yang menghubungkan area parenkima tempat terjadinya kerusakan hati dengan saluran empedu. Epimorfin, sebuah morfogen yang banyak ditemukan berperan pada banyak organ epitelial, tampaknya juga berperan pada pembentukan saluran empedu oleh sel punca hepatik. Setelah itu sel oval akan terdiferensiasi menjadi hepatosit duktular. Hepatosit duktular dianggap merupakan sel transisi yang terkait antara lain dengan:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+metaplasia duktular dari hepatosit parenkimal menjadi epitelium biliari intra-hepatik
+konversi metaplasia dari epitelium duktular menjadi hepatosit parenkimal
+diferensiasi dari sel punca dari silsilah hepatosit
+tergantung pada jenis gangguan yang menyerang hati.
 
-```markdown
-Syntax highlighted code block
+Pada model tikus dengan 70% hepatektomi, dan induksi regenerasi hepatik dengan asetilaminofluorena-2, ditemukan bahwa sel punca yang berasal dari sumsum tulang belakang dapat terdiferensiasi menjadi hepatosit, dengan mediasi hormon G-CSF sebagai kemokina dan mitogen. Regenerasi juga dapat dipicu dengan D-galaktosamina.
 
-# Header 1
-## Header 2
-### Header 3
+### Sel Imunologis Pada Hati
 
-- Bulleted
-- List
+Hati juga berperan dalam sistem kekebalan dengan banyaknya sel imunologis pada sistem retikuendotelial yang berfungsi sebagai tapis antigen yang terbawa ke hati melalui sistem portal hati. Perpindahan fase infeksi dari fase primer menjadi fase akut, ditandai oleh hati dengan menurunkan sekresi albumin dan menaikkan sekresi fibrinogen. Fasa akut yang berkepanjangan akan berakibat pada simtoma hipoalbuminemia dan hiperfibrinogenemia.
 
-1. Numbered
-2. List
+### Contact Person
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Apriliavidha/Halo-Teman-Teman/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email : Apriliavidha@smakbo.sch.id
+Article Based By id.Wikipedia.org
